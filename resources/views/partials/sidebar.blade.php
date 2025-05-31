@@ -20,8 +20,8 @@
       <ul class="main-menu">
         <!-- Dashboard header -->
         <li class="slide__category"><span class="category-name">Dashboard</span></li>
-        <li class="slide">
-          <a href="{{ route('admin.dashboard') }}" class="side-menu__item">
+        <li class="slide {{ (request()->routeIs('admin.dashboard') || request()->is('/')  ) ? 'active' : '' }}">
+          <a href="{{ route('admin.dashboard') }}" class="side-menu__item {{ (request()->routeIs('admin.dashboard') || request()->is('/')  ) ? 'active' : '' }}">
             <span class="shape1"></span>
             <span class="shape2"></span>
             <i class="ti-home side-menu__icon"></i>
