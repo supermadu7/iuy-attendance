@@ -9,10 +9,11 @@
     @include('partials.head')
 </head>
 <body>
-    {{-- Offcanvas switcher (if you want it on every page) --}}
-    <div class="offcanvas offcanvas-end" tabindex="-1" id="switcher-canvas" aria-labelledby="offcanvasRightLabel">
-      {{-- … (you could move this into a partial if you prefer) … --}}
-    </div>
+    {{-- Switcher --}}
+    @include('partials.switcher')
+
+    {{-- Preloader (if used site-wide) --}}
+     
     {{-- Loader (if used site-wide) --}}
     <div id="loader">
       <img src="{{ asset('assets/images/media/media-79.svg') }}" alt="">
