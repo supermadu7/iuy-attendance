@@ -11,10 +11,8 @@
 <body>
     {{-- Switcher --}}
     @include('partials.switcher')
-
-    {{-- Preloader (if used site-wide) --}}
      
-    {{-- Loader (if used site-wide) --}}
+    {{-- Loader --}}
     <div id="loader">
       <img src="{{ asset('assets/images/media/media-79.svg') }}" alt="">
     </div>
