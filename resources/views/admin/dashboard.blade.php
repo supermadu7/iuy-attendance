@@ -79,7 +79,7 @@
                                 </div>
                                 <div class="card-item-title mb-2">
                                     <label class="main-content-label fs-13 fw-bold mb-1">Total
-                                        Revenue</label>
+                                        Dues</label>
                                     <span class="d-block fs-12 mb-0 text-muted">Previous month vs this
                                         months</span>
                                 </div>
@@ -110,7 +110,7 @@
                                 </div>
                                 <div class="card-item-title mb-2">
                                     <label class="main-content-label fs-13 fw-bold mb-1">New
-                                        Employees</label>
+                                        Members</label>
                                     <span class="d-block fs-12 mb-0 text-muted">Employees joined this
                                         month</span>
                                 </div>
