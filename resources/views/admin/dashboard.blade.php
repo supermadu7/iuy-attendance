@@ -44,7 +44,7 @@
                                         level,
                                         Keep going to your level
                                 </div>
-                                <img src="../assets/images/pngs/29.png" alt="user-img">
+                                {{-- <img src="../assets/images/pngs/29.png" alt="user-img"> --}}
                             </div>
                         </div>
                     </div>
