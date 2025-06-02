@@ -9,7 +9,7 @@
             <h2 class="main-content-title fs-24 mb-1">Welcome To Dashboard</h2>
             <ol class="breadcrumb mb-0">
                 <li class="breadcrumb-item"><a href="#">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Project Dashboard</li>
+                <li class="breadcrumb-item active" aria-current="page"> Dashboard</li>
             </ol>
         </div>
         <div class="d-flex">
