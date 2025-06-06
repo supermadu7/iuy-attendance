@@ -92,7 +92,7 @@
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
                     <div class="card custom-card">
-                        <div class="card-body">
+                        <div class="card-body"> 
                             <div class="card-item">
                                 <div class="card-item-icon card-icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24"
@@ -114,7 +114,7 @@
                                 <div class="card-item-body">
                                     <div class="card-item-stat">
                                         <h4 class="fw-bold">15</h4>
-                                        <small><b class="text-success">5%</b> Increased</small>
+                                        <small><b class="text-success">15%</b> Increased</small>
                                     </div>
                                 </div>
                             </div>
@@ -138,7 +138,7 @@
                                 </div>
                                 <div class="card-item-title  mb-2">
                                     <label class="main-content-label fs-13 fw-bold mb-1">Total
-                                        Expenses</label>
+                                        Attendance</label>
                                     <span class="d-block fs-12 mb-0 text-muted">Previous month vs this
                                         months</span>
                                 </div>
