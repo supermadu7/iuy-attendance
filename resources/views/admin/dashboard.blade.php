@@ -108,8 +108,7 @@
                                 <div class="card-item-title mb-2">
                                     <label class="main-content-label fs-13 fw-bold mb-1">New
                                         Members</label>
-                                    <span class="d-block fs-12 mb-0 text-muted">Employees joined this
-                                        month</span>
+                                    <span class="d-block fs-12 mb-0 text-muted">Employees joined </span>
                                 </div>
                                 <div class="card-item-body">
                                     <div class="card-item-stat">
